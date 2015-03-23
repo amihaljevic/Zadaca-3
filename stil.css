@@ -1,0 +1,84 @@
+body {
+	text-align: center;
+	background: url("http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg");
+	/*pozadina preuzeta s gore navedenog linka: http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg*/
+	background-size: cover;
+	background-position: center;
+	color: white;
+	font-family: helvetica;
+}
+p {
+	font-size: 22px;
+}
+input {
+	border: 0;
+	padding: 10px;
+	font-size: 18px;
+}
+input[type="submit"] {
+	background: #0099ff;
+	color: white;
+}
+img {
+	border: 4px solid white;
+	border-radius: 100%;
+}
+li {
+	display: inline;
+	padding-right: 10px;
+	padding-left: 10px;
+	align: left;
+}
+ul {
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+}
+a {
+	color: white;
+}
+.prijava {
+	float: left;
+}
+.prijava1 {
+	float: right;
+}
+.pool {
+	clear: both;
+	float: left;
+}
+.pool1 {
+	clear: both;
+	float: left;
+}
+.pool2 {
+	clear: both;
+	float: left;
+	margin: 10px;
+}
+.pool3 {
+	clear: both;
+	float: right;
+	margin: -230px 40px 10px 10px;	
+}
+.tekst {
+	clear: both;
+}
+object {
+	margin-top: 15px;
+}
+a:hover {
+	text-decoration: none;
+}
+.button {
+	border: 0;
+	padding: 10px 0px 10px 0px;
+	font-size: 18px;
+	background: #0099ff;
+	height: 25px;
+	width: 100px;
+	margin-top: 10px;
+	margin: 0 auto;
+}
+iframe {
+	margin: 0 auto;
+}
